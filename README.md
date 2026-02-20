@@ -1,5 +1,7 @@
 # Student Score Analysis
 
+> **Dataset:** This project uses the [Students Exam Scores dataset](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores) from Kaggle, originally uploaded by Desalegn Geb. The CSV files are not included in this repository — download the dataset from Kaggle and place the raw file at `StudentScoresData_Expanded.csv` before running the notebooks.
+
 End-to-end data science project analysing factors that influence student academic performance, building from exploratory analysis through predictive modeling. The dataset contains 30,641 student records with demographic, behavioural, and socioeconomic features alongside math, reading, and writing scores.
 
 ## Project Structure
